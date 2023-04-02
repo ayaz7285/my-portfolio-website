@@ -1,0 +1,18 @@
+body[data-theme="light"] {
+    @import '../src/scss/light-slider.scss';
+ 
+    .slider-tab {
+       background-color: #D7CAAA;
+    }
+
+    #resume-btn {
+        color:"black";
+        background-color: #e9d5a1;;
+     }
+
+     #resume-button {
+        color:black;
+        border-color: black;
+     }
+
+}

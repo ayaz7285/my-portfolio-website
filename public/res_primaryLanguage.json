@@ -1,0 +1,200 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Ayaz Sarwar. A passionate developer keen on building interesting and useful stuff.As a recent graduate of IIT BHU with a BTech degree, I have developed a keen interest in software development and possess a strong skill set in C/C++ programming and data structures and algorithms. Additionally, I have gained extensive experience in Javascript frameworks such as Express.JS, Node.JS, and React.JS, and Java backend development. I have also worked with databases such as MongoDB and SQL. Throughout my internships with big IT companies and startups, I have honed my problem-solving skills and demonstrated my ability to quickly learn and adapt to new technologies and environments.As a passionate problem solver, I am now seeking software development roles where I can apply my skills and experience to develop innovative solutions and make a meaningful impact.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Devops Assessment Tool",
+        "startDate": "2022",
+        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator at my internship at Persistent Solutions. Application analyses the devops practices which were used in your project and provides you with detailed maturity assessment results.",
+        "images": [
+          "images/portfolio/devops/p1.jpg",
+          "images/portfolio/devops/p2.jpg"
+        ],
+        "technologies": [
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-spring-plain",
+            "name": "SpringBoot"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
+          }
+        ]
+      },
+      {
+        "title": "Job Search Website",
+        "startDate": "2022",
+        "description": "Designed and developed a robust job searching platform from scratch using React, Node.js, and MongoDB. Implemented key features such as a custom resume builder, job search functionality, and a job posting system for recruiters. Utilized modern web technologies and best practices to create a seamless user experience for both job seekers and recruiters.",
+        "images": [
+          "images/portfolio/job-search/p1.jpg",
+          "images/portfolio/job-search/p2.jpg"
+        ],
+        "url": "https://github.com/ayaz7285/Naukri",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJs"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDb"
+          }
+        ]
+      },
+      {
+        "title": "Exam Helper",
+        "startDate": "2022",
+        "description": "Developed a collaborative learning platform using React, Node.js, and MongoDB, enabling students to share study materials across eight engineering branches and multiple courses. Designed and implemented features such as user authentication, content uploading, and search functionality to create a seamless user experience. Also implemented a rating and commenting system to facilitate feedback and collaboration between users, enabling them to rate and comment on the shared study materials.",
+        "images": [
+          "images/portfolio/exam/p1.jpg",
+          "images/portfolio/exam/p2.jpg"
+        ],
+        "url": "https://github.com/ayaz7285/ExamHack",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJs"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDb"
+          }
+        ]
+      },
+      {
+        "title": "Resume Builder",
+        "startDate": "2021",
+        "description": "Developed a user-friendly web application using React and Node.js that generates professional-looking resumes by collecting user's biodata, skills, experience, and other relevant information. Designed and implemented key features such as a dynamic form builder, a rich text editor, and a PDF export functionality to create visually appealing and customizable resumes.",
+        "images": [
+          "images/portfolio/resume-builder/p1.jpg",
+          "images/portfolio/resume-builder/p2.jpg"
+        ],
+        "url": "https://github.com/ayaz7285/resume-builder",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJs"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDb"
+          }
+        ]
+      },
+      {
+        "title": "EShop",
+        "startDate": "2021",
+        "description": "Developed a robust and scalable e-commerce platform using React, Node.js, and MongoDB, enabling users to view, search, and add products to their shopping cart. Implemented key features such as user authentication, shopping cart functionality, and order processing to ensure a seamless shopping experience. Designed and implemented a seller portal that allows sellers and shopkeepers to list and manage their products, while ensuring proper authentication and authorization of users. Utilized modern web technologies and best practices to ensure the platform's scalability, security, and usability.",
+        "images": [
+          "images/portfolio/eshop/p1.jpg",
+          "images/portfolio/eshop/p2.jpg"
+        ],
+        "url": "https://github.com/ayaz7285/Eshop",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJs"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDb"
+          }
+        ]
+      },
+      {
+        "title": "Social Media",
+        "startDate": "2021",
+        "description": "Designed and developed a social media platform using React, Node.js, and MongoDB, enabling users to connect with each other and share posts. Implemented key features such as user authentication, post creation, liking, commenting, and search functionality to create a seamless user experience.",
+        "images": [
+          "images/portfolio/socialmedia/p1.jpg",
+          "images/portfolio/socialmedia/p2.jpg"
+        ],
+        "url": "https://github.com/ayaz7285/FriendZone",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJs"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDb"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Persistent Systems",
+        "title": "Java Back-End Developer Intern",
+        "years": "06.2022 - 08.2022",
+        "icon": "java",
+        "mainTech": [
+          "Java",
+          "SpringBoot",
+          "MySQL"
+        ],
+        "technologies": [
+          "Java/J2EE",
+          "Maven",
+          "SpringBoot",
+          "SonarQube",
+          "JUnit",
+          "MySQL",
+          "Git/Github",
+          "Postman",
+          "Mockito"
+        ]
+      },
+      {
+        "company": "Your Engineer Inc.",
+        "title": "Full Stack Developer Intern",
+        "years": "09.2021 - 12.2021",
+        "icon": "react",
+        "mainTech": [
+          "ReactJs",
+          "NodeJs",
+          "MongoDb"
+        ],
+        "technologies": [
+          "ReactJs",
+          "NodeJs",
+          "ExpressJs",
+          "MongoDb",
+          "Git/Github",
+          "Restful APIs"
+        ]
+      }
+    ]
+  }
